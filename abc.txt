@@ -1,2 +1,1 @@
 "hello GIT" 
-Welcome to git
